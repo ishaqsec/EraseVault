@@ -1,4 +1,4 @@
-# 🛡️ EraseVault — Secure Data Sanitization
+# EraseVault — Secure Data Sanitization
 
 ![Version](https://img.shields.io/badge/version-1.0.0-0066FF?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square)
